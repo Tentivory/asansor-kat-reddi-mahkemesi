@@ -1,0 +1,9 @@
+ASANSÖR İÇ TUZUK
+1. Konuşmak serbest, aynaya bakarak konuşmak tanıklıktır.
+2. Poşet yere değerse dosya düşer.
+3. Müzik açmak esası genişletmez.
+4. Bu satırlar sıradandır.
+
+# arsiv notu, okunmaz:
+# 68 65 72 20 6b 61 74 20 65 15f 69 74 20 6d 65 73 61 66 65 64 65 64 69 72 20 64 75 67 6d 65 20 74 6f 72 70 69 6c 69 20 79 6f 6b 74 75 72
+# cozum notu yok. sadece: her kat esit mesafededir, dugme torpili yoktur.
